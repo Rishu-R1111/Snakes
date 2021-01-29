@@ -10,7 +10,8 @@ Snake is the common name for a video game concept where the player maneuvers a l
 ![Screenshot (226)](https://user-images.githubusercontent.com/62838398/106331836-9eea0a80-62ab-11eb-8660-e674d92b9374.png)
 
 
-https://user-images.githubusercontent.com/62838398/106332131-2fc0e600-62ac-11eb-8836-e6712263cf25.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/62838398/106332426-cf7e7400-62ac-11eb-8f7e-fbb9e8e0f118.gif)
+
 
 
 ![Screenshot (227)](https://user-images.githubusercontent.com/62838398/106331839-a01b3780-62ab-11eb-9616-b327374b3dfd.png)
